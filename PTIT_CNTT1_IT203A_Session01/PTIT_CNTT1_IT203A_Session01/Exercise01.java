@@ -1,3 +1,5 @@
+package PTIT_CNTT1_IT203A_Session01;
+
 import java.util.Scanner;
 
 public class Exercise01 {
